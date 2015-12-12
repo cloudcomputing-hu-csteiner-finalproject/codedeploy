@@ -3,14 +3,14 @@
 <head>
 <style>
 body {
-    background-color: lightblue;
+    background-color: orange;
 }
 </style>
 </head>
 <body>
 
 <?php
-print "<h2>Sorry not enough time to create interesting content!</h2>";
+print "<h2>Wow this was deployed automagically from GitHub!</h2>";
 print "Hello world!<br>";
 print "I'm learning codedeploy!";
 ?>  
